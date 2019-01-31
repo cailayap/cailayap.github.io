@@ -1,0 +1,63 @@
+h1 {
+    color:#8d1c72ac;
+    
+}
+
+body{
+    background-color: #f4e9e7
+}
+
+h2{
+    font-size: 2em
+}
+
+#margin{
+    font-size:3em;
+        color: #64a7c4;
+             margin-top: 1em
+}
+
+.education{
+    font-size:3em;
+        color: #64a7c4;
+    font-family:monospace
+}
+
+#pic{
+    border-radius: 20%;
+    margin-left: 2em
+}
+
+#student{
+    font-size:1.5em;
+    margin-left: 3.5em;
+    color: #EE4B6A
+}
+
+#email{
+    font-size: 1.3em;
+        color: #EE4B6A
+}
+
+#add{
+    font-size: 1.3em;
+    color: #EE4B6A
+}
+
+#left-col{
+    background-color:#FFA5AB
+}
+
+#name{
+    margin-left: 1.5em;
+    font-size: 2em;
+   font-family:monospace
+}
+
+.col-3{
+    padding-left: 11em
+}
+
+#name2{
+    font-family:fantasy
+}
