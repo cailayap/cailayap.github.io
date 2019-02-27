@@ -1,0 +1,50 @@
+h1 {
+    color: #8d1c72ac;
+    font-family: fantasy;
+    text-align: center;
+    margin-top: 1em;
+    
+}
+
+body{
+    background-color: #f4e9e7
+}
+
+h2{
+    font-family: monospace;
+    font-size: 2.5em;
+    text-align: center;
+    color:#E1CE7A;
+    margin-top: 2em
+        
+}
+    
+#first{
+    margin-left:10%;
+    margin-right: 10%;
+    text-align: justify;
+    margin-top: 1em;
+    font-family: fantasy;
+    font-size: 1em;
+    color: #698996;
+}
+
+#bff{
+    width: 25em;
+    margin-left: 10%;
+}
+
+#bff2{
+    width:25em;
+    height:25em;
+    margin-top: 20%;
+    margin-left: 2%;
+
+}
+
+#bff3{
+    width:25em;
+    height:35em;
+    margin-left: 70%;
+    
+}
